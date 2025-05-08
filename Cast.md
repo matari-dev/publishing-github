@@ -1,6 +1,6 @@
 [Home](README.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md)
 
-<img src="images/logo_stargazers_bug.svg" alt="StarGazers Logo" width="200">
+<img src="images/logo_stargazers_bug.svg" alt="StarGazers Logo" height="200">
 
 # Cast
 
