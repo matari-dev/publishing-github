@@ -1,6 +1,6 @@
 [Home](README.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md)
 
-<img src="images/logo_bigstar.svg" alt="StarGazers Logo" height="300">
+<img src="images/logo_bigstar.svg" alt="StarGazers Logo" height="200">
 
 # Collectibles
 
